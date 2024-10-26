@@ -46,11 +46,11 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Front-End Developer",
     icon: backend,
   },
   {
@@ -198,7 +198,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Airline Ticket",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
